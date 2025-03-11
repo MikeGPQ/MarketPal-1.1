@@ -1,0 +1,88 @@
+#include <iostream>
+#include <string>
+#include <map>
+
+int main() {
+    std::cout << "NETFLIX\n";
+
+    bool salir = false;
+    int respuesta;
+    std::string nombre;
+    std::string contra;
+    std::map<std::string, std::string> users; // Map to store users and passwords
+
+    do {
+        std::cout << "¿Qué desea hacer hoy? (1.- Iniciar Sesión 2.- Registrar Cuenta 3.- Salir)\n";
+        std::cin >> respuesta;
+
+        switch (respuesta) {
+            case 1: // Login
+                std::cout << "Nombre de usuario:\n";
+                std::cin >> nombre;
+                std::cout << "Contraseña:\n";
+                std::cin >> contra;
+
+                if (users.find(nombre) != users.end() && users[nombre] == contra) {
+                    std::cout << "Iniciando sesión...\n";
+                    std::cout << "¿Qué película quiere ver? 1.- Batman 2.- El diario de una pasión 3.- Viernes 13\n";
+                    std::cin >> respuesta;
+
+                    switch (respuesta) {
+                        case 1:
+                            std::cout << "Reproduciendo Batman...\n";
+                            break;
+                        case 2:
+                            std::cout << "Reproduciendo El diario de una pasión...\n";
+                            break;
+                        case 3:
+                            std::cout << "Reproduciendo Viernes 13...\n";
+                            break;
+                        default:
+                            std::cout << "ERROR: Opción no válida.\n";
+                            break;
+                    }
+                } else {
+                    std::cout << "ERROR: Nombre de usuario o contraseña incorrectos.\n";
+                }
+                break;
+
+            case 2: // Register
+                std::cout << "Registrar nuevo usuario:\n";
+                std::cout << "Nombre de usuario:\n";
+                std::cin >> nombre;
+                std::cout << "Contraseña:\n";
+                std::cin >> contra;
+
+                if (users.find(nombre) == users.end()) {
+                    users[nombre] = contra;
+                    std::cout << "Cuenta registrada con éxito.\n";
+
+                    std::cout << "¿Qué plan quieres? 1.- Mensual 2.- Anual\n";
+                    std::cin >> respuesta;
+
+                    if (respuesta == 1) {
+                        std::cout << "Plan mensual confirmado.\n";
+                    } else if (respuesta == 2) {
+                        std::cout << "Plan anual confirmado.\n";
+                    } else {
+                        std::cout << "Opción no válida.\n";
+                    }
+                } else {
+                    std::cout << "ERROR: El nombre de usuario ya existe.\n";
+                }
+                break;
+
+            case 3: // Exit
+                std::cout << "Saliendo...\n";
+                salir = true;
+                break;
+
+            default:
+                std::cout << "ERROR: Opción no válida. Por favor, elija una opción válida.\n";
+                break;
+        }
+
+    } while (!salir);
+
+    return 0;
+}

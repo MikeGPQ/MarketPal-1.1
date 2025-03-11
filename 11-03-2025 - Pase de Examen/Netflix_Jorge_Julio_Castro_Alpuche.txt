@@ -1,0 +1,135 @@
+#include <iostream>
+#include <vector>
+#include <string>
+
+using namespace std;
+
+struct Usuario {
+    string nombre;
+    string email;
+    string contrasena;
+    string plan;
+    string metodo_pago;
+};
+
+vector<Usuario> usuarios;
+Usuario *usuario_actual = nullptr;
+
+void crearCuenta() {
+    Usuario nuevo;
+    cout << "\n--- Crear Cuenta ---" << endl;
+    cout << "Nombre: ";
+    cin.ignore();
+    getline(cin, nuevo.nombre);
+    cout << "Email: ";
+    cin >> nuevo.email;
+    cout << "Contraseña: ";
+    cin >> nuevo.contrasena;
+    cout << "\nCuenta creada exitosamente!" << endl;
+    usuarios.push_back(nuevo);
+}
+
+void elegirPlan(Usuario &usuario) {
+    cout << "\n--- Elegir Plan ---" << endl;
+    cout << "1. Básico" << endl;
+    cout << "2. Estándar" << endl;
+    cout << "3. Premium" << endl;
+    int opcion;
+    cin >> opcion;
+    if (opcion == 1) usuario.plan = "Básico";
+    else if (opcion == 2) usuario.plan = "Estándar";
+    else usuario.plan = "Premium";
+    cout << "Plan seleccionado: " << usuario.plan << endl;
+}
+
+void elegirMetodoPago(Usuario &usuario) {
+    cout << "\n--- Método de Pago ---" << endl;
+    cout << "1. Tarjeta de Crédito" << endl;
+    cout << "2. PayPal" << endl;
+    int opcion;
+    cin >> opcion;
+    if (opcion == 1) usuario.metodo_pago = "Tarjeta de Crédito";
+    else usuario.metodo_pago = "PayPal";
+    cout << "Método de pago seleccionado: " << usuario.metodo_pago << endl;
+}
+
+Usuario* iniciarSesion() {
+    string email, contrasena;
+    cout << "\n--- Iniciar Sesión ---" << endl;
+    cout << "Email: ";
+    cin >> email;
+    cout << "Contraseña: ";
+    cin >> contrasena;
+    
+    for (auto &usuario : usuarios) {
+        if (usuario.email == email && usuario.contrasena == contrasena) {
+            cout << "Inicio de sesión exitoso!" << endl;
+            return &usuario;
+        }
+    }
+    cout << "Error: Email o contraseña incorrectos." << endl;
+    return nullptr;
+}
+
+void recuperarContrasena() {
+    string email;
+    cout << "\n--- Recuperar Contraseña ---" << endl;
+    cout << "Ingrese su email: ";
+    cin >> email;
+    for (auto &usuario : usuarios) {
+        if (usuario.email == email) {
+            cout << "Su contraseña es: " << usuario.contrasena << endl;
+            return;
+        }
+    }
+    cout << "Email no encontrado." << endl;
+}
+
+void verContenido() {
+    cout << "\n--- Catálogo de Contenido ---" << endl;
+    cout << "1. Película: Inception" << endl;
+    cout << "2. Película: The Matrix" << endl;
+    cout << "3. Serie: Breaking Bad" << endl;
+    cout << "4. Serie: Stranger Things" << endl;
+    cout << "Seleccione una opción: ";
+    int opcion;
+    cin >> opcion;
+    cout << "Disfrutando contenido..." << endl;
+}
+
+int main() {
+    int opcion;
+    do {
+        cout << "\n--- Netflix  ---" << endl;
+        cout << "1. Crear Cuenta" << endl;
+        cout << "2. Iniciar Sesión" << endl;
+        cout << "3. Recuperar Contraseña" << endl;
+        cout << "4. Salir" << endl;
+        cout << "Seleccione una opción: ";
+        cin >> opcion;
+        
+        switch (opcion) {
+            case 1:
+                crearCuenta();
+                break;
+            case 2:
+                usuario_actual = iniciarSesion();
+                if (usuario_actual) {
+                    elegirPlan(*usuario_actual);
+                    elegirMetodoPago(*usuario_actual);
+                    verContenido();
+                }
+                break;
+            case 3:
+                recuperarContrasena();
+                break;
+            case 4:
+                cout << "Saliendo..." << endl;
+                break;
+            default:
+                cout << "Opción no válida." << endl;
+        }
+    } while (opcion != 4);
+    
+    return 0;
+}
