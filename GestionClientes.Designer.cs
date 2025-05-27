@@ -126,6 +126,7 @@
             imageList1.TransparentColor = Color.Transparent;
             imageList1.Images.SetKeyName(0, "ICON_ORANGE.png");
             imageList1.Images.SetKeyName(1, "PLUS_ORANGE.png");
+            imageList1.Images.SetKeyName(2, "ICON_BLACK.png");
             // 
             // label1
             // 
@@ -170,14 +171,14 @@
             button_Delete.FlatAppearance.MouseDownBackColor = SystemColors.ScrollBar;
             button_Delete.FlatAppearance.MouseOverBackColor = SystemColors.ControlLight;
             button_Delete.FlatStyle = FlatStyle.Flat;
-            button_Delete.Font = new Font("Lucida Sans", 9.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            button_Delete.Font = new Font("Lucida Sans", 7.8F, FontStyle.Regular, GraphicsUnit.Point, 0);
             button_Delete.ForeColor = Color.FromArgb(250, 146, 31);
             button_Delete.Location = new Point(1024, 638);
             button_Delete.Margin = new Padding(4, 5, 4, 5);
             button_Delete.Name = "button_Delete";
             button_Delete.Size = new Size(100, 35);
             button_Delete.TabIndex = 8;
-            button_Delete.Text = "Borrar";
+            button_Delete.Text = "Deshabilitar";
             button_Delete.UseVisualStyleBackColor = false;
             button_Delete.Click += button_Delete_Click;
             // 
@@ -231,6 +232,7 @@
             // 
             // textBox_Puntos
             // 
+            textBox_Puntos.Enabled = false;
             textBox_Puntos.Font = new Font("Lucida Sans", 8.25F, FontStyle.Regular, GraphicsUnit.Point, 0);
             textBox_Puntos.ForeColor = SystemColors.GrayText;
             textBox_Puntos.Location = new Point(910, 506);

@@ -8,5 +8,6 @@
 		public decimal Puntos { get; set; }
 		public string Fecha { get; set; }
         public string Tarjeta { get; set; }
+        public bool Habilitado { get; set; }
     }
 }

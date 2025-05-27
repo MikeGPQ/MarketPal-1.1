@@ -56,14 +56,14 @@ namespace MarketPal
                 if (button_Uppload.Text == "Guardar")
                 {
                     revisarTarjeta();
-                    SetResponse response = await client.SetAsync("Clientes/" + ("ID:" + selectedUser), genUser(dict_clientes, false));
+                    SetResponse response = await client.SetAsync("Clientes/" + ("ID:" + selectedUser), genUser(dict_clientes, false, true));
                     hideButtons();
                     clearTextBox();
                     actualizarLista();
                 }
                 else
                 {
-                    SetResponse response = await client.SetAsync("Clientes/" + ("ID:" + (checkMax(dict_clientes) + 1)), genUser(dict_clientes, true));
+                    SetResponse response = await client.SetAsync("Clientes/" + ("ID:" + (checkMax(dict_clientes) + 1)), genUser(dict_clientes, true, true));
                     hideButtons();
                     clearTextBox();
                     actualizarLista();
@@ -92,7 +92,7 @@ namespace MarketPal
 
 
         //GENERAR CLIENTE
-        private Data_Client genUser(Dictionary<string, Data_Client> dict_clientes, bool newCliente)
+        private Data_Client genUser(Dictionary<string, Data_Client> dict_clientes, bool newCliente, bool habilitar)
         {
             var data = new Data_Client
             {
@@ -102,6 +102,7 @@ namespace MarketPal
                 Tarjeta = textBox_Tarjeta.Text != "" ? textBox_Tarjeta.Text : null,
                 Puntos = newCliente ? 0 : decimal.Parse(textBox_Puntos.Text),
                 Fecha = newCliente ? DateTime.Now.ToString("d/M/yyyy") : dict_clientes[$"ID:{selectedUser}"].Fecha,
+                Habilitado = habilitar
             };
 
             return data;
@@ -212,8 +213,8 @@ namespace MarketPal
             {
                 foreach (KeyValuePair<string, Data_Client> cliente in dict_clientes)
                 {
-                    ListViewItem item = new ListViewItem(cliente.Value.Nombre + "\n" + cliente.Key, 0);
-                    item.SubItems.Add(cliente.Key);
+                    ListViewItem item = new ListViewItem(cliente.Value.Nombre + "\n" + cliente.Key, cliente.Value.Habilitado ? 0 : 2);
+                    item.SubItems.Add(cliente.Key); 
                     listView_Clientes.Items.Add(item);
                 }
             }
@@ -222,10 +223,9 @@ namespace MarketPal
         }
 
         //BOTON DE BORRAR CLIENTE
-        private void button_Delete_Click(object sender, EventArgs e)
+        private async void button_Delete_Click(object sender, EventArgs e)
         {
-            FirebaseResponse delete = client.Delete("Clientes/" + ("ID:" + selectedUser));
-            FirebaseResponse deleteTarjeta = client.Delete("Tarjetas/" + ("ID:" + dict_clientes["ID:" + selectedUser].Tarjeta));
+            SetResponse response = await client.SetAsync("Clientes/" + ("ID:" + selectedUser), genUser(dict_clientes, false, button_Delete.Text == "Deshabilitar" ? false:true));
             clearTextBox();
             hideButtons();
             actualizarLista();
@@ -253,7 +253,6 @@ namespace MarketPal
                 showButtons();
                 button_Delete.Visible = false;
                 button_Uppload.Text = "Subir";
-                textBox_Puntos.Enabled = false;
                 textBox_Puntos.Text = "0";
                 textBox_Tarjeta.Clear();
                 label7.Visible = false;
@@ -274,7 +273,6 @@ namespace MarketPal
                     button_Uppload.Location = new Point(910, 638);
                     button_Uppload.Text = "Guardar";
                     ListViewItem selectedItem = listView_Clientes.SelectedItems[0];
-                    textBox_Puntos.Enabled = true;
                     selectedUser = selectedItem.SubItems[1].Text.Split("ID:")[1];
                     fillTextBoxes(selectedItem.SubItems[1].Text);
                     showButtons();
@@ -297,6 +295,7 @@ namespace MarketPal
                     textbox_Correo.Text = cliente.Value.Correo;
                     textbox_Telefono.Text = cliente.Value.Telefono;
                     textBox_Puntos.Text = "" + cliente.Value.Puntos;
+                    button_Delete.Text = cliente.Value.Habilitado ? "Deshabilitar":"Habilitar";
                     if (cliente.Value.Tarjeta != null)
                     {
                         label7.Visible = true;

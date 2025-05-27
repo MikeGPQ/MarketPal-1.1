@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "f27hlMp4u8I=",
+  "dgSpecHash": "UuwIvDBUwrc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\migue\\Downloads\\MarketPal\\MarketPal\\MarketPal.csproj",
+  "projectFilePath": "C:\\Users\\migue\\Downloads\\MarketPal\\MarketPal.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\migue\\.nuget\\packages\\epplus\\7.5.1\\epplus.7.5.1.nupkg.sha512",
     "C:\\Users\\migue\\.nuget\\packages\\epplus.interfaces\\7.5.0\\epplus.interfaces.7.5.0.nupkg.sha512",

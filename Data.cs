@@ -6,6 +6,7 @@
 		public string Correo { get; set; }
 		public string Rol { get; set; }
 		public string Password { get; set; }
+		public bool Habilitado { get; set; }
 
 	}
 }

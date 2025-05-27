@@ -96,11 +96,14 @@ namespace MarketPal
         {
             foreach (KeyValuePair<string, Data> usuario in dict_usuarios)
             {
-                if (usuario.Value.Correo == textBox_Correo.Text)
+                if(usuario.Value.Habilitado != false)
                 {
-                    rolUsuario = usuario.Value.Rol;
-                    nombreUsuario = usuario.Value.Nombre;
-                    return true;
+                    if (usuario.Value.Correo == textBox_Correo.Text)
+                    {
+                        rolUsuario = usuario.Value.Rol;
+                        nombreUsuario = usuario.Value.Nombre;
+                        return true;
+                    }
                 }
             }
             label3.Visible = true;

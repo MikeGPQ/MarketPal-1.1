@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\migue\\Downloads\\MarketPal\\MarketPal\\MarketPal.csproj": {}
+    "C:\\Users\\migue\\Downloads\\MarketPal\\MarketPal.csproj": {}
   },
   "projects": {
-    "C:\\Users\\migue\\Downloads\\MarketPal\\MarketPal\\MarketPal.csproj": {
+    "C:\\Users\\migue\\Downloads\\MarketPal\\MarketPal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\migue\\Downloads\\MarketPal\\MarketPal\\MarketPal.csproj",
+        "projectUniqueName": "C:\\Users\\migue\\Downloads\\MarketPal\\MarketPal.csproj",
         "projectName": "MarketPal",
-        "projectPath": "C:\\Users\\migue\\Downloads\\MarketPal\\MarketPal\\MarketPal.csproj",
+        "projectPath": "C:\\Users\\migue\\Downloads\\MarketPal\\MarketPal.csproj",
         "packagesPath": "C:\\Users\\migue\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\migue\\Downloads\\MarketPal\\MarketPal\\obj\\",
+        "outputPath": "C:\\Users\\migue\\Downloads\\MarketPal\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

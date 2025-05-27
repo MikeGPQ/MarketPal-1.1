@@ -110,7 +110,7 @@ namespace MarketPal
             {
                 if (button_Upload.Text == "Guardar")
                 {
-                    SetResponse response = await client.SetAsync("Usuarios/" + ("ID:" + selectedUser), genUser(dict_usuarios, false));
+                    SetResponse response = await client.SetAsync("Usuarios/" + ("ID:" + selectedUser), genUser(dict_usuarios, false, true));
                     hideButtons();
                     clearTextBox();
                     actualizarLista();
@@ -118,7 +118,7 @@ namespace MarketPal
                 else
                 {
                     //VER QUE NO NO HAYA CORREO O ID REPETIDA
-                    SetResponse response = await client.SetAsync("Usuarios/" + ("ID:" + (checkMax(dict_usuarios) + 1)), genUser(dict_usuarios, true));
+                    SetResponse response = await client.SetAsync("Usuarios/" + ("ID:" + (checkMax(dict_usuarios) + 1)), genUser(dict_usuarios, true, true));
                     hideButtons();
                     clearTextBox();
                     actualizarLista();
@@ -132,14 +132,15 @@ namespace MarketPal
         }
 
         //GENERAR USUARIO
-        private Data genUser(Dictionary<string, Data> dict_usuarios, bool creacion)
+        private Data genUser(Dictionary<string, Data> dict_usuarios, bool creacion, bool habilitado)
         {
             var data = new Data
             {
                 Nombre = textbox_Nombre.Text,
                 Correo = textbox_Correo.Text,
                 Rol = combobox_Rol.Text,
-                Password = creacion ? passwordGen(dict_usuarios) : dict_usuarios[$"ID:{selectedUser}"].Password
+                Password = creacion ? passwordGen(dict_usuarios) : dict_usuarios[$"ID:{selectedUser}"].Password,
+                Habilitado = habilitado
             };
 
             return data;
@@ -238,7 +239,7 @@ namespace MarketPal
         //BOTON PARA BORRAR UN REGISTRO, SOLO ESTA HABILITADO SI TIENES UN USARIO SELECIONADO
         private async void button_Delete_Click(object sender, EventArgs e)
         {
-            FirebaseResponse delete = client.Delete("Usuarios/" + ("ID:" + selectedUser));
+            SetResponse response = await client.SetAsync("Usuarios/" + ("ID:" + selectedUser), genUser(dict_usuarios, false, button_Delete.Text == "Deshabilitar"? false:true));
             hideButtons();
             clearTextBox();
             actualizarLista();
@@ -320,13 +321,13 @@ namespace MarketPal
             {
                 if (usuario.Value.Rol == "Administrador")
                 {
-                    ListViewItem item = new ListViewItem(usuario.Value.Nombre + "\n" + usuario.Key, 2);
+                    ListViewItem item = new ListViewItem(usuario.Value.Nombre + "\n" + usuario.Key, usuario.Value.Habilitado? 2:3);
                     item.SubItems.Add(usuario.Key);
                     listView_Usuarios.Items.Add(item);
                 }
                 else
                 {
-                    ListViewItem item = new ListViewItem(usuario.Value.Nombre + "\n" + usuario.Key, 0);
+                    ListViewItem item = new ListViewItem(usuario.Value.Nombre + "\n" + usuario.Key, usuario.Value.Habilitado ? 0:3);
                     item.SubItems.Add(usuario.Key);
                     listView_Usuarios.Items.Add(item);
                 }
@@ -344,6 +345,7 @@ namespace MarketPal
                     textbox_Nombre.Text = usuario.Value.Nombre;
                     textbox_Correo.Text = usuario.Value.Correo;
                     combobox_Rol.Text = usuario.Value.Rol;
+                    button_Delete.Text = usuario.Value.Habilitado? "Deshabilitar":"Habilitar";
                 }
             }
         }
