@@ -1,0 +1,12 @@
+********** TICKET DE COMPRA **********
+Tienda: Farmacia Bosques
+Dirección: Av. Principal #123, Ciudad A
+Teléfono: 123-456-789
+--------------------------------------
+ Cant. | Producto       | Precio
+--------------------------------------
+  1 ud.   | Galletas Emperador Chocolate 100 g | $15.00
+--------------------------------------
+Total: $15.00
+**************************************
+¡Gracias por su compra!

@@ -1,0 +1,412 @@
+C:\Users\hecto\source\repos\MarketPal\bin\Release\net8.0-windows\MarketPal.exe
+C:\Users\hecto\source\repos\MarketPal\bin\Release\net8.0-windows\MarketPal.deps.json
+C:\Users\hecto\source\repos\MarketPal\bin\Release\net8.0-windows\MarketPal.runtimeconfig.json
+C:\Users\hecto\source\repos\MarketPal\bin\Release\net8.0-windows\MarketPal.dll
+C:\Users\hecto\source\repos\MarketPal\bin\Release\net8.0-windows\MarketPal.pdb
+C:\Users\hecto\source\repos\MarketPal\bin\Release\net8.0-windows\EPPlus.dll
+C:\Users\hecto\source\repos\MarketPal\bin\Release\net8.0-windows\EPPlus.Interfaces.dll
+C:\Users\hecto\source\repos\MarketPal\bin\Release\net8.0-windows\EPPlus.System.Drawing.dll
+C:\Users\hecto\source\repos\MarketPal\bin\Release\net8.0-windows\FireSharp.dll
+C:\Users\hecto\source\repos\MarketPal\bin\Release\net8.0-windows\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\hecto\source\repos\MarketPal\bin\Release\net8.0-windows\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\hecto\source\repos\MarketPal\bin\Release\net8.0-windows\Microsoft.Threading.Tasks.dll
+C:\Users\hecto\source\repos\MarketPal\bin\Release\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\hecto\source\repos\MarketPal\bin\Release\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hecto\source\repos\MarketPal\bin\Release\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\hecto\source\repos\MarketPal\bin\Release\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\hecto\source\repos\MarketPal\bin\Release\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\hecto\source\repos\MarketPal\bin\Release\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\hecto\source\repos\MarketPal\bin\Release\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\hecto\source\repos\MarketPal\bin\Release\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\hecto\source\repos\MarketPal\bin\Release\net8.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\hecto\source\repos\MarketPal\bin\Release\net8.0-windows\System.Net.Http.Extensions.dll
+C:\Users\hecto\source\repos\MarketPal\bin\Release\net8.0-windows\System.Net.Http.Primitives.dll
+C:\Users\hecto\source\repos\MarketPal\bin\Release\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\hecto\source\repos\MarketPal\bin\Release\net8.0-windows\RestSharp.dll
+C:\Users\hecto\source\repos\MarketPal\bin\Release\net8.0-windows\System.Drawing.Common.dll
+C:\Users\hecto\source\repos\MarketPal\bin\Release\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\hecto\source\repos\MarketPal\bin\Release\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\hecto\source\repos\MarketPal\obj\Release\net8.0-windows\MarketPal.csproj.AssemblyReference.cache
+C:\Users\hecto\source\repos\MarketPal\obj\Release\net8.0-windows\MarketPal.aviso_seleccion_categoria_subcategoria.resources
+C:\Users\hecto\source\repos\MarketPal\obj\Release\net8.0-windows\MarketPal.botones_categoria.resources
+C:\Users\hecto\source\repos\MarketPal\obj\Release\net8.0-windows\MarketPal.botones_creacion_subcategorias.resources
+C:\Users\hecto\source\repos\MarketPal\obj\Release\net8.0-windows\MarketPal.botones_venta_productos.resources
+C:\Users\hecto\source\repos\MarketPal\obj\Release\net8.0-windows\MarketPal.boton_subcategoria.resources
+C:\Users\hecto\source\repos\MarketPal\obj\Release\net8.0-windows\MarketPal.cantidad_producto_carrito.resources
+C:\Users\hecto\source\repos\MarketPal\obj\Release\net8.0-windows\MarketPal.detalles_categoria.resources
+C:\Users\hecto\source\repos\MarketPal\obj\Release\net8.0-windows\MarketPal.detalles_subcategoria.resources
+C:\Users\hecto\source\repos\MarketPal\obj\Release\net8.0-windows\WindowsFormsApp1.FormMenu.resources
+C:\Users\hecto\source\repos\MarketPal\obj\Release\net8.0-windows\MarketPal.GestionClientes.resources
+C:\Users\hecto\source\repos\MarketPal\obj\Release\net8.0-windows\MarketPal.GestionUsuarios.resources
+C:\Users\hecto\source\repos\MarketPal\obj\Release\net8.0-windows\MarketPal.Inicio.resources
+C:\Users\hecto\source\repos\MarketPal\obj\Release\net8.0-windows\MarketPal.mensaje_aviso.resources
+C:\Users\hecto\source\repos\MarketPal\obj\Release\net8.0-windows\MarketPal.Properties.Resources.resources
+C:\Users\hecto\source\repos\MarketPal\obj\Release\net8.0-windows\MarketPal.seccion_agregar_producto.resources
+C:\Users\hecto\source\repos\MarketPal\obj\Release\net8.0-windows\MarketPal.seccion_categorias.resources
+C:\Users\hecto\source\repos\MarketPal\obj\Release\net8.0-windows\MarketPal.seccion_detalles_producto.resources
+C:\Users\hecto\source\repos\MarketPal\obj\Release\net8.0-windows\MarketPal.seccion_gestion_inventario.resources
+C:\Users\hecto\source\repos\MarketPal\obj\Release\net8.0-windows\MarketPal.seccion_gestion_usuarios_clientes.resources
+C:\Users\hecto\source\repos\MarketPal\obj\Release\net8.0-windows\MarketPal.seccion_gestion_ventas.resources
+C:\Users\hecto\source\repos\MarketPal\obj\Release\net8.0-windows\MarketPal.seccion_productos.resources
+C:\Users\hecto\source\repos\MarketPal\obj\Release\net8.0-windows\MarketPal.seccion_venta_productos.resources
+C:\Users\hecto\source\repos\MarketPal\obj\Release\net8.0-windows\MarketPal.csproj.GenerateResource.cache
+C:\Users\hecto\source\repos\MarketPal\obj\Release\net8.0-windows\MarketPal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hecto\source\repos\MarketPal\obj\Release\net8.0-windows\MarketPal.AssemblyInfoInputs.cache
+C:\Users\hecto\source\repos\MarketPal\obj\Release\net8.0-windows\MarketPal.AssemblyInfo.cs
+C:\Users\hecto\source\repos\MarketPal\obj\Release\net8.0-windows\MarketPal.csproj.CoreCompileInputs.cache
+C:\Users\hecto\source\repos\MarketPal\obj\Release\net8.0-windows\MarketPal.csproj.Up2Date
+C:\Users\hecto\source\repos\MarketPal\obj\Release\net8.0-windows\MarketPal.dll
+C:\Users\hecto\source\repos\MarketPal\obj\Release\net8.0-windows\refint\MarketPal.dll
+C:\Users\hecto\source\repos\MarketPal\obj\Release\net8.0-windows\MarketPal.pdb
+C:\Users\hecto\source\repos\MarketPal\obj\Release\net8.0-windows\MarketPal.genruntimeconfig.cache
+C:\Users\hecto\source\repos\MarketPal\obj\Release\net8.0-windows\ref\MarketPal.dll
+C:\Users\hecto\OneDrive\Desktop\MarketPal Nuevo\MarketPal\MarketPal\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\MarketPal.exe
+C:\Users\hecto\OneDrive\Desktop\MarketPal Nuevo\MarketPal\MarketPal\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\MarketPal.deps.json
+C:\Users\hecto\OneDrive\Desktop\MarketPal Nuevo\MarketPal\MarketPal\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\MarketPal.runtimeconfig.json
+C:\Users\hecto\OneDrive\Desktop\MarketPal Nuevo\MarketPal\MarketPal\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\MarketPal.dll
+C:\Users\hecto\OneDrive\Desktop\MarketPal Nuevo\MarketPal\MarketPal\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\MarketPal.pdb
+C:\Users\hecto\OneDrive\Desktop\MarketPal Nuevo\MarketPal\MarketPal\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\EPPlus.dll
+C:\Users\hecto\OneDrive\Desktop\MarketPal Nuevo\MarketPal\MarketPal\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\EPPlus.Interfaces.dll
+C:\Users\hecto\OneDrive\Desktop\MarketPal Nuevo\MarketPal\MarketPal\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\EPPlus.System.Drawing.dll
+C:\Users\hecto\OneDrive\Desktop\MarketPal Nuevo\MarketPal\MarketPal\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\FireSharp.dll
+C:\Users\hecto\OneDrive\Desktop\MarketPal Nuevo\MarketPal\MarketPal\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\hecto\OneDrive\Desktop\MarketPal Nuevo\MarketPal\MarketPal\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\hecto\OneDrive\Desktop\MarketPal Nuevo\MarketPal\MarketPal\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\Microsoft.Threading.Tasks.dll
+C:\Users\hecto\OneDrive\Desktop\MarketPal Nuevo\MarketPal\MarketPal\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\hecto\OneDrive\Desktop\MarketPal Nuevo\MarketPal\MarketPal\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hecto\OneDrive\Desktop\MarketPal Nuevo\MarketPal\MarketPal\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\hecto\OneDrive\Desktop\MarketPal Nuevo\MarketPal\MarketPal\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\hecto\OneDrive\Desktop\MarketPal Nuevo\MarketPal\MarketPal\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\hecto\OneDrive\Desktop\MarketPal Nuevo\MarketPal\MarketPal\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\hecto\OneDrive\Desktop\MarketPal Nuevo\MarketPal\MarketPal\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\hecto\OneDrive\Desktop\MarketPal Nuevo\MarketPal\MarketPal\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\hecto\OneDrive\Desktop\MarketPal Nuevo\MarketPal\MarketPal\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\hecto\OneDrive\Desktop\MarketPal Nuevo\MarketPal\MarketPal\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\System.Net.Http.Extensions.dll
+C:\Users\hecto\OneDrive\Desktop\MarketPal Nuevo\MarketPal\MarketPal\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\System.Net.Http.Primitives.dll
+C:\Users\hecto\OneDrive\Desktop\MarketPal Nuevo\MarketPal\MarketPal\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\hecto\OneDrive\Desktop\MarketPal Nuevo\MarketPal\MarketPal\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\RestSharp.dll
+C:\Users\hecto\OneDrive\Desktop\MarketPal Nuevo\MarketPal\MarketPal\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\System.Drawing.Common.dll
+C:\Users\hecto\OneDrive\Desktop\MarketPal Nuevo\MarketPal\MarketPal\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\System.IO.Ports.dll
+C:\Users\hecto\OneDrive\Desktop\MarketPal Nuevo\MarketPal\MarketPal\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\hecto\OneDrive\Desktop\MarketPal Nuevo\MarketPal\MarketPal\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\runtimes\android-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\hecto\OneDrive\Desktop\MarketPal Nuevo\MarketPal\MarketPal\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\runtimes\android-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\hecto\OneDrive\Desktop\MarketPal Nuevo\MarketPal\MarketPal\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\runtimes\android-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\hecto\OneDrive\Desktop\MarketPal Nuevo\MarketPal\MarketPal\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\runtimes\android-x86\native\libSystem.IO.Ports.Native.so
+C:\Users\hecto\OneDrive\Desktop\MarketPal Nuevo\MarketPal\MarketPal\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\hecto\OneDrive\Desktop\MarketPal Nuevo\MarketPal\MarketPal\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\hecto\OneDrive\Desktop\MarketPal Nuevo\MarketPal\MarketPal\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\runtimes\linux-bionic-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\hecto\OneDrive\Desktop\MarketPal Nuevo\MarketPal\MarketPal\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\runtimes\linux-bionic-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\hecto\OneDrive\Desktop\MarketPal Nuevo\MarketPal\MarketPal\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\runtimes\linux-musl-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\hecto\OneDrive\Desktop\MarketPal Nuevo\MarketPal\MarketPal\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\runtimes\linux-musl-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\hecto\OneDrive\Desktop\MarketPal Nuevo\MarketPal\MarketPal\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\runtimes\linux-musl-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\hecto\OneDrive\Desktop\MarketPal Nuevo\MarketPal\MarketPal\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\hecto\OneDrive\Desktop\MarketPal Nuevo\MarketPal\MarketPal\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\runtimes\maccatalyst-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\hecto\OneDrive\Desktop\MarketPal Nuevo\MarketPal\MarketPal\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\runtimes\maccatalyst-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\hecto\OneDrive\Desktop\MarketPal Nuevo\MarketPal\MarketPal\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\hecto\OneDrive\Desktop\MarketPal Nuevo\MarketPal\MarketPal\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\hecto\OneDrive\Desktop\MarketPal Nuevo\MarketPal\MarketPal\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\runtimes\unix\lib\net8.0\System.IO.Ports.dll
+C:\Users\hecto\OneDrive\Desktop\MarketPal Nuevo\MarketPal\MarketPal\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\runtimes\win\lib\net8.0\System.IO.Ports.dll
+C:\Users\hecto\OneDrive\Desktop\MarketPal Nuevo\MarketPal\MarketPal\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\hecto\OneDrive\Desktop\MarketPal Nuevo\MarketPal\MarketPal\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.csproj.AssemblyReference.cache
+C:\Users\hecto\OneDrive\Desktop\MarketPal Nuevo\MarketPal\MarketPal\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.aviso_seleccion_categoria_subcategoria.resources
+C:\Users\hecto\OneDrive\Desktop\MarketPal Nuevo\MarketPal\MarketPal\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.botones_categoria.resources
+C:\Users\hecto\OneDrive\Desktop\MarketPal Nuevo\MarketPal\MarketPal\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.botones_creacion_subcategorias.resources
+C:\Users\hecto\OneDrive\Desktop\MarketPal Nuevo\MarketPal\MarketPal\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.botones_venta_productos.resources
+C:\Users\hecto\OneDrive\Desktop\MarketPal Nuevo\MarketPal\MarketPal\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.boton_subcategoria.resources
+C:\Users\hecto\OneDrive\Desktop\MarketPal Nuevo\MarketPal\MarketPal\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.cantidad_producto_carrito.resources
+C:\Users\hecto\OneDrive\Desktop\MarketPal Nuevo\MarketPal\MarketPal\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.detalles_categoria.resources
+C:\Users\hecto\OneDrive\Desktop\MarketPal Nuevo\MarketPal\MarketPal\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.detalles_subcategoria.resources
+C:\Users\hecto\OneDrive\Desktop\MarketPal Nuevo\MarketPal\MarketPal\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\WindowsFormsApp1.FormMenu.resources
+C:\Users\hecto\OneDrive\Desktop\MarketPal Nuevo\MarketPal\MarketPal\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.GestionClientes.resources
+C:\Users\hecto\OneDrive\Desktop\MarketPal Nuevo\MarketPal\MarketPal\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.GestionUsuarios.resources
+C:\Users\hecto\OneDrive\Desktop\MarketPal Nuevo\MarketPal\MarketPal\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.Inicio.resources
+C:\Users\hecto\OneDrive\Desktop\MarketPal Nuevo\MarketPal\MarketPal\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.mensaje_aviso.resources
+C:\Users\hecto\OneDrive\Desktop\MarketPal Nuevo\MarketPal\MarketPal\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.mensaje_tarjeta.resources
+C:\Users\hecto\OneDrive\Desktop\MarketPal Nuevo\MarketPal\MarketPal\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.Properties.Resources.resources
+C:\Users\hecto\OneDrive\Desktop\MarketPal Nuevo\MarketPal\MarketPal\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.seccion_acumulacion_puntos.resources
+C:\Users\hecto\OneDrive\Desktop\MarketPal Nuevo\MarketPal\MarketPal\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.seccion_agregar_producto.resources
+C:\Users\hecto\OneDrive\Desktop\MarketPal Nuevo\MarketPal\MarketPal\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.seccion_categorias.resources
+C:\Users\hecto\OneDrive\Desktop\MarketPal Nuevo\MarketPal\MarketPal\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.seccion_detalles_producto.resources
+C:\Users\hecto\OneDrive\Desktop\MarketPal Nuevo\MarketPal\MarketPal\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.seccion_gestion_inventario.resources
+C:\Users\hecto\OneDrive\Desktop\MarketPal Nuevo\MarketPal\MarketPal\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.seccion_gestion_usuarios_clientes.resources
+C:\Users\hecto\OneDrive\Desktop\MarketPal Nuevo\MarketPal\MarketPal\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.seccion_gestion_ventas.resources
+C:\Users\hecto\OneDrive\Desktop\MarketPal Nuevo\MarketPal\MarketPal\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.seccion_productos.resources
+C:\Users\hecto\OneDrive\Desktop\MarketPal Nuevo\MarketPal\MarketPal\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.seccion_reporte_ventas.resources
+C:\Users\hecto\OneDrive\Desktop\MarketPal Nuevo\MarketPal\MarketPal\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.seccion_uso_puntos.resources
+C:\Users\hecto\OneDrive\Desktop\MarketPal Nuevo\MarketPal\MarketPal\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.seccion_venta_productos.resources
+C:\Users\hecto\OneDrive\Desktop\MarketPal Nuevo\MarketPal\MarketPal\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.vista_previa_ticket.resources
+C:\Users\hecto\OneDrive\Desktop\MarketPal Nuevo\MarketPal\MarketPal\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.csproj.GenerateResource.cache
+C:\Users\hecto\OneDrive\Desktop\MarketPal Nuevo\MarketPal\MarketPal\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hecto\OneDrive\Desktop\MarketPal Nuevo\MarketPal\MarketPal\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.AssemblyInfoInputs.cache
+C:\Users\hecto\OneDrive\Desktop\MarketPal Nuevo\MarketPal\MarketPal\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.AssemblyInfo.cs
+C:\Users\hecto\OneDrive\Desktop\MarketPal Nuevo\MarketPal\MarketPal\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.csproj.CoreCompileInputs.cache
+C:\Users\hecto\OneDrive\Desktop\MarketPal Nuevo\MarketPal\MarketPal\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.csproj.Up2Date
+C:\Users\hecto\OneDrive\Desktop\MarketPal Nuevo\MarketPal\MarketPal\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.dll
+C:\Users\hecto\OneDrive\Desktop\MarketPal Nuevo\MarketPal\MarketPal\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\refint\MarketPal.dll
+C:\Users\hecto\OneDrive\Desktop\MarketPal Nuevo\MarketPal\MarketPal\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.pdb
+C:\Users\hecto\OneDrive\Desktop\MarketPal Nuevo\MarketPal\MarketPal\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.genruntimeconfig.cache
+C:\Users\hecto\OneDrive\Desktop\MarketPal Nuevo\MarketPal\MarketPal\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\ref\MarketPal.dll
+C:\Users\migue\Downloads\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\MarketPal.exe
+C:\Users\migue\Downloads\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\MarketPal.deps.json
+C:\Users\migue\Downloads\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\MarketPal.runtimeconfig.json
+C:\Users\migue\Downloads\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\MarketPal.dll
+C:\Users\migue\Downloads\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\MarketPal.pdb
+C:\Users\migue\Downloads\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\EPPlus.dll
+C:\Users\migue\Downloads\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\EPPlus.Interfaces.dll
+C:\Users\migue\Downloads\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\EPPlus.System.Drawing.dll
+C:\Users\migue\Downloads\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\FireSharp.dll
+C:\Users\migue\Downloads\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\migue\Downloads\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\migue\Downloads\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\Microsoft.Threading.Tasks.dll
+C:\Users\migue\Downloads\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\migue\Downloads\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\migue\Downloads\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\migue\Downloads\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\migue\Downloads\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\migue\Downloads\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\migue\Downloads\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\migue\Downloads\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\migue\Downloads\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\migue\Downloads\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\System.Net.Http.Extensions.dll
+C:\Users\migue\Downloads\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\System.Net.Http.Primitives.dll
+C:\Users\migue\Downloads\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\migue\Downloads\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\RestSharp.dll
+C:\Users\migue\Downloads\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\System.Drawing.Common.dll
+C:\Users\migue\Downloads\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\System.IO.Ports.dll
+C:\Users\migue\Downloads\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\migue\Downloads\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\runtimes\android-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\migue\Downloads\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\runtimes\android-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\migue\Downloads\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\runtimes\android-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\migue\Downloads\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\runtimes\android-x86\native\libSystem.IO.Ports.Native.so
+C:\Users\migue\Downloads\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\migue\Downloads\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\migue\Downloads\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\runtimes\linux-bionic-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\migue\Downloads\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\runtimes\linux-bionic-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\migue\Downloads\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\runtimes\linux-musl-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\migue\Downloads\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\runtimes\linux-musl-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\migue\Downloads\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\runtimes\linux-musl-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\migue\Downloads\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\migue\Downloads\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\runtimes\maccatalyst-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\migue\Downloads\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\runtimes\maccatalyst-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\migue\Downloads\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\migue\Downloads\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\migue\Downloads\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\runtimes\unix\lib\net8.0\System.IO.Ports.dll
+C:\Users\migue\Downloads\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\runtimes\win\lib\net8.0\System.IO.Ports.dll
+C:\Users\migue\Downloads\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\migue\Downloads\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.csproj.AssemblyReference.cache
+C:\Users\migue\Downloads\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.aviso_seleccion_categoria_subcategoria.resources
+C:\Users\migue\Downloads\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.botones_categoria.resources
+C:\Users\migue\Downloads\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.botones_creacion_subcategorias.resources
+C:\Users\migue\Downloads\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.botones_venta_productos.resources
+C:\Users\migue\Downloads\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.boton_subcategoria.resources
+C:\Users\migue\Downloads\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.cantidad_producto_carrito.resources
+C:\Users\migue\Downloads\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.detalles_categoria.resources
+C:\Users\migue\Downloads\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.detalles_subcategoria.resources
+C:\Users\migue\Downloads\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\WindowsFormsApp1.FormMenu.resources
+C:\Users\migue\Downloads\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.GestionClientes.resources
+C:\Users\migue\Downloads\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.GestionUsuarios.resources
+C:\Users\migue\Downloads\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.Inicio.resources
+C:\Users\migue\Downloads\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.mensaje_aviso.resources
+C:\Users\migue\Downloads\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.mensaje_tarjeta.resources
+C:\Users\migue\Downloads\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.mensaje_tarjeta_2.resources
+C:\Users\migue\Downloads\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.Properties.Resources.resources
+C:\Users\migue\Downloads\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.seccion_acumulacion_puntos.resources
+C:\Users\migue\Downloads\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.seccion_agregar_producto.resources
+C:\Users\migue\Downloads\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.seccion_categorias.resources
+C:\Users\migue\Downloads\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.seccion_detalles_producto.resources
+C:\Users\migue\Downloads\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.seccion_gestion_inventario.resources
+C:\Users\migue\Downloads\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.seccion_gestion_usuarios_clientes.resources
+C:\Users\migue\Downloads\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.seccion_gestion_ventas.resources
+C:\Users\migue\Downloads\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.seccion_productos.resources
+C:\Users\migue\Downloads\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.seccion_reporte_ventas.resources
+C:\Users\migue\Downloads\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.seccion_tarjetas.resources
+C:\Users\migue\Downloads\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.seccion_uso_puntos.resources
+C:\Users\migue\Downloads\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.seccion_venta_productos.resources
+C:\Users\migue\Downloads\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.vista_previa_ticket.resources
+C:\Users\migue\Downloads\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.csproj.GenerateResource.cache
+C:\Users\migue\Downloads\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\Downloads\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.AssemblyInfoInputs.cache
+C:\Users\migue\Downloads\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.AssemblyInfo.cs
+C:\Users\migue\Downloads\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.csproj.CoreCompileInputs.cache
+C:\Users\migue\Downloads\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.csproj.Up2Date
+C:\Users\migue\Downloads\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.dll
+C:\Users\migue\Downloads\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\refint\MarketPal.dll
+C:\Users\migue\Downloads\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.pdb
+C:\Users\migue\Downloads\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.genruntimeconfig.cache
+C:\Users\migue\Downloads\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\ref\MarketPal.dll
+C:\Users\hecto\OneDrive\Desktop\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\MarketPal.exe
+C:\Users\hecto\OneDrive\Desktop\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\MarketPal.deps.json
+C:\Users\hecto\OneDrive\Desktop\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\MarketPal.runtimeconfig.json
+C:\Users\hecto\OneDrive\Desktop\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\MarketPal.dll
+C:\Users\hecto\OneDrive\Desktop\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\MarketPal.pdb
+C:\Users\hecto\OneDrive\Desktop\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\EPPlus.dll
+C:\Users\hecto\OneDrive\Desktop\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\EPPlus.Interfaces.dll
+C:\Users\hecto\OneDrive\Desktop\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\EPPlus.System.Drawing.dll
+C:\Users\hecto\OneDrive\Desktop\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\FireSharp.dll
+C:\Users\hecto\OneDrive\Desktop\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\hecto\OneDrive\Desktop\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\hecto\OneDrive\Desktop\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\Microsoft.Threading.Tasks.dll
+C:\Users\hecto\OneDrive\Desktop\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\hecto\OneDrive\Desktop\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hecto\OneDrive\Desktop\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\hecto\OneDrive\Desktop\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\hecto\OneDrive\Desktop\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\hecto\OneDrive\Desktop\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\hecto\OneDrive\Desktop\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\hecto\OneDrive\Desktop\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\hecto\OneDrive\Desktop\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\hecto\OneDrive\Desktop\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\System.Net.Http.Extensions.dll
+C:\Users\hecto\OneDrive\Desktop\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\System.Net.Http.Primitives.dll
+C:\Users\hecto\OneDrive\Desktop\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\hecto\OneDrive\Desktop\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\RestSharp.dll
+C:\Users\hecto\OneDrive\Desktop\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\System.Drawing.Common.dll
+C:\Users\hecto\OneDrive\Desktop\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\System.IO.Ports.dll
+C:\Users\hecto\OneDrive\Desktop\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\hecto\OneDrive\Desktop\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\runtimes\android-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\hecto\OneDrive\Desktop\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\runtimes\android-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\hecto\OneDrive\Desktop\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\runtimes\android-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\hecto\OneDrive\Desktop\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\runtimes\android-x86\native\libSystem.IO.Ports.Native.so
+C:\Users\hecto\OneDrive\Desktop\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\hecto\OneDrive\Desktop\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\hecto\OneDrive\Desktop\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\runtimes\linux-bionic-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\hecto\OneDrive\Desktop\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\runtimes\linux-bionic-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\hecto\OneDrive\Desktop\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\runtimes\linux-musl-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\hecto\OneDrive\Desktop\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\runtimes\linux-musl-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\hecto\OneDrive\Desktop\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\runtimes\linux-musl-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\hecto\OneDrive\Desktop\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\hecto\OneDrive\Desktop\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\runtimes\maccatalyst-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\hecto\OneDrive\Desktop\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\runtimes\maccatalyst-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\hecto\OneDrive\Desktop\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\hecto\OneDrive\Desktop\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\hecto\OneDrive\Desktop\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\runtimes\unix\lib\net8.0\System.IO.Ports.dll
+C:\Users\hecto\OneDrive\Desktop\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\runtimes\win\lib\net8.0\System.IO.Ports.dll
+C:\Users\hecto\OneDrive\Desktop\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\hecto\OneDrive\Desktop\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.csproj.AssemblyReference.cache
+C:\Users\hecto\OneDrive\Desktop\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.aviso_seleccion_categoria_subcategoria.resources
+C:\Users\hecto\OneDrive\Desktop\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.botones_categoria.resources
+C:\Users\hecto\OneDrive\Desktop\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.botones_creacion_subcategorias.resources
+C:\Users\hecto\OneDrive\Desktop\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.botones_venta_productos.resources
+C:\Users\hecto\OneDrive\Desktop\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.boton_subcategoria.resources
+C:\Users\hecto\OneDrive\Desktop\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.cantidad_producto_carrito.resources
+C:\Users\hecto\OneDrive\Desktop\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.detalles_categoria.resources
+C:\Users\hecto\OneDrive\Desktop\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.detalles_subcategoria.resources
+C:\Users\hecto\OneDrive\Desktop\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\WindowsFormsApp1.FormMenu.resources
+C:\Users\hecto\OneDrive\Desktop\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.GestionClientes.resources
+C:\Users\hecto\OneDrive\Desktop\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.GestionUsuarios.resources
+C:\Users\hecto\OneDrive\Desktop\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.Inicio.resources
+C:\Users\hecto\OneDrive\Desktop\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.mensaje_aviso.resources
+C:\Users\hecto\OneDrive\Desktop\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.mensaje_tarjeta.resources
+C:\Users\hecto\OneDrive\Desktop\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.mensaje_tarjeta_2.resources
+C:\Users\hecto\OneDrive\Desktop\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.Properties.Resources.resources
+C:\Users\hecto\OneDrive\Desktop\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.seccion_acumulacion_puntos.resources
+C:\Users\hecto\OneDrive\Desktop\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.seccion_agregar_producto.resources
+C:\Users\hecto\OneDrive\Desktop\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.seccion_categorias.resources
+C:\Users\hecto\OneDrive\Desktop\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.seccion_detalles_producto.resources
+C:\Users\hecto\OneDrive\Desktop\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.seccion_gestion_inventario.resources
+C:\Users\hecto\OneDrive\Desktop\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.seccion_gestion_usuarios_clientes.resources
+C:\Users\hecto\OneDrive\Desktop\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.seccion_gestion_ventas.resources
+C:\Users\hecto\OneDrive\Desktop\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.seccion_productos.resources
+C:\Users\hecto\OneDrive\Desktop\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.seccion_reporte_ventas.resources
+C:\Users\hecto\OneDrive\Desktop\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.seccion_tarjetas.resources
+C:\Users\hecto\OneDrive\Desktop\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.seccion_uso_puntos.resources
+C:\Users\hecto\OneDrive\Desktop\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.seccion_venta_productos.resources
+C:\Users\hecto\OneDrive\Desktop\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.vista_previa_ticket.resources
+C:\Users\hecto\OneDrive\Desktop\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.csproj.GenerateResource.cache
+C:\Users\hecto\OneDrive\Desktop\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hecto\OneDrive\Desktop\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.AssemblyInfoInputs.cache
+C:\Users\hecto\OneDrive\Desktop\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.AssemblyInfo.cs
+C:\Users\hecto\OneDrive\Desktop\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.csproj.CoreCompileInputs.cache
+C:\Users\hecto\OneDrive\Desktop\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.csproj.Up2Date
+C:\Users\hecto\OneDrive\Desktop\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.dll
+C:\Users\hecto\OneDrive\Desktop\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\refint\MarketPal.dll
+C:\Users\hecto\OneDrive\Desktop\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.pdb
+C:\Users\hecto\OneDrive\Desktop\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.genruntimeconfig.cache
+C:\Users\hecto\OneDrive\Desktop\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\ref\MarketPal.dll
+C:\Users\hecto\OneDrive\Documentos\Aplicaciones y Archivos\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\MarketPal.exe
+C:\Users\hecto\OneDrive\Documentos\Aplicaciones y Archivos\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\MarketPal.deps.json
+C:\Users\hecto\OneDrive\Documentos\Aplicaciones y Archivos\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\MarketPal.runtimeconfig.json
+C:\Users\hecto\OneDrive\Documentos\Aplicaciones y Archivos\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\MarketPal.dll
+C:\Users\hecto\OneDrive\Documentos\Aplicaciones y Archivos\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\MarketPal.pdb
+C:\Users\hecto\OneDrive\Documentos\Aplicaciones y Archivos\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\EPPlus.dll
+C:\Users\hecto\OneDrive\Documentos\Aplicaciones y Archivos\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\EPPlus.Interfaces.dll
+C:\Users\hecto\OneDrive\Documentos\Aplicaciones y Archivos\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\EPPlus.System.Drawing.dll
+C:\Users\hecto\OneDrive\Documentos\Aplicaciones y Archivos\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\FireSharp.dll
+C:\Users\hecto\OneDrive\Documentos\Aplicaciones y Archivos\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\hecto\OneDrive\Documentos\Aplicaciones y Archivos\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\hecto\OneDrive\Documentos\Aplicaciones y Archivos\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\Microsoft.Threading.Tasks.dll
+C:\Users\hecto\OneDrive\Documentos\Aplicaciones y Archivos\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\hecto\OneDrive\Documentos\Aplicaciones y Archivos\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hecto\OneDrive\Documentos\Aplicaciones y Archivos\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\hecto\OneDrive\Documentos\Aplicaciones y Archivos\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\hecto\OneDrive\Documentos\Aplicaciones y Archivos\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\hecto\OneDrive\Documentos\Aplicaciones y Archivos\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\hecto\OneDrive\Documentos\Aplicaciones y Archivos\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\hecto\OneDrive\Documentos\Aplicaciones y Archivos\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\hecto\OneDrive\Documentos\Aplicaciones y Archivos\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\hecto\OneDrive\Documentos\Aplicaciones y Archivos\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\System.Net.Http.Extensions.dll
+C:\Users\hecto\OneDrive\Documentos\Aplicaciones y Archivos\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\System.Net.Http.Primitives.dll
+C:\Users\hecto\OneDrive\Documentos\Aplicaciones y Archivos\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\hecto\OneDrive\Documentos\Aplicaciones y Archivos\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\RestSharp.dll
+C:\Users\hecto\OneDrive\Documentos\Aplicaciones y Archivos\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\System.Drawing.Common.dll
+C:\Users\hecto\OneDrive\Documentos\Aplicaciones y Archivos\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\System.IO.Ports.dll
+C:\Users\hecto\OneDrive\Documentos\Aplicaciones y Archivos\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\hecto\OneDrive\Documentos\Aplicaciones y Archivos\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\runtimes\android-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\hecto\OneDrive\Documentos\Aplicaciones y Archivos\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\runtimes\android-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\hecto\OneDrive\Documentos\Aplicaciones y Archivos\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\runtimes\android-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\hecto\OneDrive\Documentos\Aplicaciones y Archivos\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\runtimes\android-x86\native\libSystem.IO.Ports.Native.so
+C:\Users\hecto\OneDrive\Documentos\Aplicaciones y Archivos\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\hecto\OneDrive\Documentos\Aplicaciones y Archivos\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\hecto\OneDrive\Documentos\Aplicaciones y Archivos\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\runtimes\linux-bionic-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\hecto\OneDrive\Documentos\Aplicaciones y Archivos\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\runtimes\linux-bionic-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\hecto\OneDrive\Documentos\Aplicaciones y Archivos\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\runtimes\linux-musl-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\hecto\OneDrive\Documentos\Aplicaciones y Archivos\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\runtimes\linux-musl-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\hecto\OneDrive\Documentos\Aplicaciones y Archivos\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\runtimes\linux-musl-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\hecto\OneDrive\Documentos\Aplicaciones y Archivos\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\hecto\OneDrive\Documentos\Aplicaciones y Archivos\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\runtimes\maccatalyst-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\hecto\OneDrive\Documentos\Aplicaciones y Archivos\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\runtimes\maccatalyst-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\hecto\OneDrive\Documentos\Aplicaciones y Archivos\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\hecto\OneDrive\Documentos\Aplicaciones y Archivos\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\hecto\OneDrive\Documentos\Aplicaciones y Archivos\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\runtimes\unix\lib\net8.0\System.IO.Ports.dll
+C:\Users\hecto\OneDrive\Documentos\Aplicaciones y Archivos\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\runtimes\win\lib\net8.0\System.IO.Ports.dll
+C:\Users\hecto\OneDrive\Documentos\Aplicaciones y Archivos\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\bin\Release\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\hecto\OneDrive\Documentos\Aplicaciones y Archivos\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.csproj.AssemblyReference.cache
+C:\Users\hecto\OneDrive\Documentos\Aplicaciones y Archivos\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.aviso_seleccion_categoria_subcategoria.resources
+C:\Users\hecto\OneDrive\Documentos\Aplicaciones y Archivos\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.botones_categoria.resources
+C:\Users\hecto\OneDrive\Documentos\Aplicaciones y Archivos\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.botones_creacion_subcategorias.resources
+C:\Users\hecto\OneDrive\Documentos\Aplicaciones y Archivos\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.botones_venta_productos.resources
+C:\Users\hecto\OneDrive\Documentos\Aplicaciones y Archivos\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.boton_subcategoria.resources
+C:\Users\hecto\OneDrive\Documentos\Aplicaciones y Archivos\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.cantidad_producto_carrito.resources
+C:\Users\hecto\OneDrive\Documentos\Aplicaciones y Archivos\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.detalles_categoria.resources
+C:\Users\hecto\OneDrive\Documentos\Aplicaciones y Archivos\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.detalles_subcategoria.resources
+C:\Users\hecto\OneDrive\Documentos\Aplicaciones y Archivos\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\WindowsFormsApp1.FormMenu.resources
+C:\Users\hecto\OneDrive\Documentos\Aplicaciones y Archivos\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.GestionClientes.resources
+C:\Users\hecto\OneDrive\Documentos\Aplicaciones y Archivos\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.GestionUsuarios.resources
+C:\Users\hecto\OneDrive\Documentos\Aplicaciones y Archivos\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.Inicio.resources
+C:\Users\hecto\OneDrive\Documentos\Aplicaciones y Archivos\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.mensaje_aviso.resources
+C:\Users\hecto\OneDrive\Documentos\Aplicaciones y Archivos\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.mensaje_tarjeta.resources
+C:\Users\hecto\OneDrive\Documentos\Aplicaciones y Archivos\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.mensaje_tarjeta_2.resources
+C:\Users\hecto\OneDrive\Documentos\Aplicaciones y Archivos\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.Properties.Resources.resources
+C:\Users\hecto\OneDrive\Documentos\Aplicaciones y Archivos\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.seccion_acumulacion_puntos.resources
+C:\Users\hecto\OneDrive\Documentos\Aplicaciones y Archivos\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.seccion_agregar_producto.resources
+C:\Users\hecto\OneDrive\Documentos\Aplicaciones y Archivos\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.seccion_categorias.resources
+C:\Users\hecto\OneDrive\Documentos\Aplicaciones y Archivos\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.seccion_detalles_producto.resources
+C:\Users\hecto\OneDrive\Documentos\Aplicaciones y Archivos\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.seccion_gestion_inventario.resources
+C:\Users\hecto\OneDrive\Documentos\Aplicaciones y Archivos\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.seccion_gestion_usuarios_clientes.resources
+C:\Users\hecto\OneDrive\Documentos\Aplicaciones y Archivos\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.seccion_gestion_ventas.resources
+C:\Users\hecto\OneDrive\Documentos\Aplicaciones y Archivos\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.seccion_productos.resources
+C:\Users\hecto\OneDrive\Documentos\Aplicaciones y Archivos\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.seccion_reporte_ventas.resources
+C:\Users\hecto\OneDrive\Documentos\Aplicaciones y Archivos\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.seccion_tarjetas.resources
+C:\Users\hecto\OneDrive\Documentos\Aplicaciones y Archivos\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.seccion_uso_puntos.resources
+C:\Users\hecto\OneDrive\Documentos\Aplicaciones y Archivos\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.seccion_venta_productos.resources
+C:\Users\hecto\OneDrive\Documentos\Aplicaciones y Archivos\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.vista_previa_ticket.resources
+C:\Users\hecto\OneDrive\Documentos\Aplicaciones y Archivos\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.csproj.GenerateResource.cache
+C:\Users\hecto\OneDrive\Documentos\Aplicaciones y Archivos\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hecto\OneDrive\Documentos\Aplicaciones y Archivos\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.AssemblyInfoInputs.cache
+C:\Users\hecto\OneDrive\Documentos\Aplicaciones y Archivos\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.AssemblyInfo.cs
+C:\Users\hecto\OneDrive\Documentos\Aplicaciones y Archivos\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.csproj.CoreCompileInputs.cache
+C:\Users\hecto\OneDrive\Documentos\Aplicaciones y Archivos\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.csproj.Up2Date
+C:\Users\hecto\OneDrive\Documentos\Aplicaciones y Archivos\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.dll
+C:\Users\hecto\OneDrive\Documentos\Aplicaciones y Archivos\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\refint\MarketPal.dll
+C:\Users\hecto\OneDrive\Documentos\Aplicaciones y Archivos\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.pdb
+C:\Users\hecto\OneDrive\Documentos\Aplicaciones y Archivos\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\MarketPal.genruntimeconfig.cache
+C:\Users\hecto\OneDrive\Documentos\Aplicaciones y Archivos\MarketPal\MarketPal Correccion\MarketPal (2)\MarketPal\MarketPal\MarketPal\obj\Release\net8.0-windows\ref\MarketPal.dll

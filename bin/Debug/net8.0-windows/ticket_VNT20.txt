@@ -1,0 +1,12 @@
+********** TICKET DE COMPRA **********
+Tienda: Farmacia Bosques
+Dirección: Av. Principal #123, Ciudad A
+Teléfono: 123-456-789
+--------------------------------------
+ Cant. | Producto       | Precio
+--------------------------------------
+  1 ud.   | Jugos Jumex Manzana 500 ml | $11.00
+--------------------------------------
+Total: $11.00
+**************************************
+¡Gracias por su compra!

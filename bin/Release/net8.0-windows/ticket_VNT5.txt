@@ -1,0 +1,12 @@
+********** TICKET DE COMPRA **********
+Tienda: Farmacia Bosques
+Dirección: Av. Principal #123, Ciudad A
+Teléfono: 123-456-789
+--------------------------------------
+ Cant. | Producto       | Precio
+--------------------------------------
+  2 uds.   | Pasta Colgate 75 ml | $90.00
+--------------------------------------
+Total: $90.00
+**************************************
+¡Gracias por su compra!
