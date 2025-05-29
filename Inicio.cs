@@ -13,6 +13,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using FireSharp;
 using WindowsFormsApp1;
+using System.Security.Cryptography;
 
 namespace MarketPal
 {
@@ -117,13 +118,39 @@ namespace MarketPal
             {
                 if (usuario.Value.Correo == textBox_Correo.Text)
                 {
-                    if (usuario.Value.Password == textBox_Password.Text)
+                    if (usuario.Value.Password == HashCode(textBox_Password.Text))
                     {
                         return true;
+                    }
+                    else
+                    {
+                        return false;
                     }
                 }
             }
             return false;
+        }
+
+        //CIFRADO
+        private string HashCode(string password)
+        {
+            using (var sha256 = SHA256.Create())
+            {
+                // Convert the input string to a byte array
+                byte[] bytes = Encoding.UTF8.GetBytes(password);
+
+                // Compute the hash
+                byte[] hashBytes = sha256.ComputeHash(bytes);
+
+                // Convert the byte array to a hexadecimal string
+                StringBuilder builder = new StringBuilder();
+                for (int i = 0; i < hashBytes.Length; i++)
+                {
+                    builder.Append(hashBytes[i].ToString("x2")); // "x2" means hexadecimal
+                }
+                
+                return builder.ToString();
+            }
         }
 
         private void label1_Click(object sender, EventArgs e)

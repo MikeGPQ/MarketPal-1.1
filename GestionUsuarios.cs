@@ -23,6 +23,7 @@ using FireSharp.Extensions;
 using Newtonsoft.Json;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 using static System.Runtime.InteropServices.JavaScript.JSType;
+using System.Security.Cryptography;
 
 namespace MarketPal
 {
@@ -139,11 +140,33 @@ namespace MarketPal
                 Nombre = textbox_Nombre.Text,
                 Correo = textbox_Correo.Text,
                 Rol = combobox_Rol.Text,
-                Password = creacion ? passwordGen(dict_usuarios) : dict_usuarios[$"ID:{selectedUser}"].Password,
+                Password = creacion ? HashCode(passwordGen(dict_usuarios)) : dict_usuarios[$"ID:{selectedUser}"].Password,
                 Habilitado = habilitado
             };
 
             return data;
+        }
+
+        //CIFRADO
+        private string HashCode(string password)
+        {
+            using (var sha256 = SHA256.Create())
+            {
+                // Convert the input string to a byte array
+                byte[] bytes = Encoding.UTF8.GetBytes(password);
+
+                // Compute the hash
+                byte[] hashBytes = sha256.ComputeHash(bytes);
+
+                // Convert the byte array to a hexadecimal string
+                StringBuilder builder = new StringBuilder();
+                for (int i = 0; i < hashBytes.Length; i++)
+                {
+                    builder.Append(hashBytes[i].ToString("x2")); // "x2" means hexadecimal
+                }
+
+                return builder.ToString();
+            }
         }
 
         //CHECAR QUE TODOS LOS CAMPOS ESTEN COMPLETOS
