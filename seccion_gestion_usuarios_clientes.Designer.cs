@@ -35,6 +35,7 @@ namespace MarketPal
             panel_gestion_inventario = new Panel();
             btn_productos = new Button();
             panel_navegacion = new Panel();
+            btn_entradasSalidas = new Button();
             panel_navegacion.SuspendLayout();
             SuspendLayout();
             // 
@@ -82,6 +83,7 @@ namespace MarketPal
             // panel_navegacion
             // 
             panel_navegacion.BackColor = Color.FromArgb(255, 224, 183);
+            panel_navegacion.Controls.Add(btn_entradasSalidas);
             panel_navegacion.Controls.Add(btn_categorias);
             panel_navegacion.Controls.Add(btn_productos);
             panel_navegacion.Dock = DockStyle.Top;
@@ -90,6 +92,22 @@ namespace MarketPal
             panel_navegacion.Size = new Size(1207, 51);
             panel_navegacion.TabIndex = 4;
             panel_navegacion.Paint += panel_navegacion_Paint_1;
+            // 
+            // btn_entradasSalidas
+            // 
+            btn_entradasSalidas.BackColor = Color.FromArgb(255, 224, 183);
+            btn_entradasSalidas.FlatAppearance.BorderSize = 0;
+            btn_entradasSalidas.FlatAppearance.MouseDownBackColor = Color.FromArgb(248, 140, 30);
+            btn_entradasSalidas.FlatAppearance.MouseOverBackColor = Color.FromArgb(255, 186, 94);
+            btn_entradasSalidas.FlatStyle = FlatStyle.Flat;
+            btn_entradasSalidas.Font = new Font("Lucida Sans", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            btn_entradasSalidas.Location = new Point(331, 0);
+            btn_entradasSalidas.Name = "btn_entradasSalidas";
+            btn_entradasSalidas.Size = new Size(165, 51);
+            btn_entradasSalidas.TabIndex = 2;
+            btn_entradasSalidas.Text = "Auditorias";
+            btn_entradasSalidas.UseVisualStyleBackColor = false;
+            btn_entradasSalidas.Click += btn_entradasSalidas_Click;
             // 
             // seccion_gestion_usuarios_clientes
             // 
@@ -116,5 +134,6 @@ namespace MarketPal
         private Panel panel_navegacion;
         public Button btn_categorias;
         public Button btn_productos;
+        public Button btn_entradasSalidas;
     }
 }

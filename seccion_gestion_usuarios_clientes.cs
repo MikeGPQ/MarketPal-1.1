@@ -93,5 +93,11 @@ namespace MarketPal
         {
 
         }
+
+        private void btn_entradasSalidas_Click(object sender, EventArgs e)
+        {
+            MostrarFormularioEnPanel(new GestionAuditoriaES(), btn_entradasSalidas);
+            
+        }
     }
 }

@@ -3,28 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\migue\\Downloads\\MarketPal\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9AE08225-D15A-4056-B4B1-AECF75D22BB1}|MarketPal.csproj|c:\\users\\migue\\downloads\\marketpal\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9AE08225-D15A-4056-B4B1-AECF75D22BB1}|MarketPal.csproj|solutionrelative:inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9AE08225-D15A-4056-B4B1-AECF75D22BB1}|MarketPal.csproj|c:\\users\\migue\\downloads\\marketpal\\gestionauditoriaes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9AE08225-D15A-4056-B4B1-AECF75D22BB1}|MarketPal.csproj|solutionrelative:gestionauditoriaes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9AE08225-D15A-4056-B4B1-AECF75D22BB1}|MarketPal.csproj|c:\\users\\migue\\downloads\\marketpal\\gestionusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9AE08225-D15A-4056-B4B1-AECF75D22BB1}|MarketPal.csproj|solutionrelative:gestionusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9AE08225-D15A-4056-B4B1-AECF75D22BB1}|MarketPal.csproj|c:\\users\\migue\\downloads\\marketpal\\seccion_reporte_ventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9AE08225-D15A-4056-B4B1-AECF75D22BB1}|MarketPal.csproj|solutionrelative:seccion_reporte_ventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9AE08225-D15A-4056-B4B1-AECF75D22BB1}|MarketPal.csproj|C:\\Users\\migue\\Downloads\\MarketPal\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9AE08225-D15A-4056-B4B1-AECF75D22BB1}|MarketPal.csproj|solutionrelative:inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{9AE08225-D15A-4056-B4B1-AECF75D22BB1}|MarketPal.csproj|c:\\users\\migue\\downloads\\marketpal\\gestionauditoriaes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AE08225-D15A-4056-B4B1-AECF75D22BB1}|MarketPal.csproj|solutionrelative:gestionauditoriaes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9AE08225-D15A-4056-B4B1-AECF75D22BB1}|MarketPal.csproj|C:\\Users\\migue\\Downloads\\MarketPal\\mensaje_aviso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9AE08225-D15A-4056-B4B1-AECF75D22BB1}|MarketPal.csproj|solutionrelative:mensaje_aviso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{9AE08225-D15A-4056-B4B1-AECF75D22BB1}|MarketPal.csproj|c:\\users\\migue\\downloads\\marketpal\\seccion_reporte_ventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AE08225-D15A-4056-B4B1-AECF75D22BB1}|MarketPal.csproj|solutionrelative:seccion_reporte_ventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9AE08225-D15A-4056-B4B1-AECF75D22BB1}|MarketPal.csproj|C:\\Users\\migue\\Downloads\\MarketPal\\gestionusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9AE08225-D15A-4056-B4B1-AECF75D22BB1}|MarketPal.csproj|solutionrelative:gestionusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9AE08225-D15A-4056-B4B1-AECF75D22BB1}|MarketPal.csproj|c:\\users\\migue\\downloads\\marketpal\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9AE08225-D15A-4056-B4B1-AECF75D22BB1}|MarketPal.csproj|solutionrelative:data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9AE08225-D15A-4056-B4B1-AECF75D22BB1}|MarketPal.csproj|c:\\users\\migue\\downloads\\marketpal\\auditoriaes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AE08225-D15A-4056-B4B1-AECF75D22BB1}|MarketPal.csproj|solutionrelative:auditoriaes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,75 +46,66 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Inicio.cs",
-              "DocumentMoniker": "C:\\Users\\migue\\Downloads\\MarketPal\\Inicio.cs",
-              "RelativeDocumentMoniker": "Inicio.cs",
-              "ToolTip": "C:\\Users\\migue\\Downloads\\MarketPal\\Inicio.cs",
-              "RelativeToolTip": "Inicio.cs",
-              "ViewState": "AgIAAG0AAAAAAAAAAAAkwHsAAAAVAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "AuditoriaES.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\Downloads\\MarketPal\\AuditoriaES.cs",
+              "RelativeDocumentMoniker": "AuditoriaES.cs",
+              "ToolTip": "C:\\Users\\migue\\Downloads\\MarketPal\\AuditoriaES.cs",
+              "RelativeToolTip": "AuditoriaES.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T05:45:14.901Z",
+              "WhenOpened": "2025-06-10T20:01:53.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "seccion_reporte_ventas.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\Downloads\\MarketPal\\seccion_reporte_ventas.cs",
+              "RelativeDocumentMoniker": "seccion_reporte_ventas.cs",
+              "ToolTip": "C:\\Users\\migue\\Downloads\\MarketPal\\seccion_reporte_ventas.cs",
+              "RelativeToolTip": "seccion_reporte_ventas.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAvwGQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T19:58:09.216Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Inicio.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\migue\\Downloads\\MarketPal\\Inicio.cs",
-              "RelativeDocumentMoniker": "Inicio.cs",
-              "ToolTip": "C:\\Users\\migue\\Downloads\\MarketPal\\Inicio.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Inicio.cs [Dise\u00F1o]",
+              "Title": "GestionAuditoriaES.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\Downloads\\MarketPal\\GestionAuditoriaES.cs",
+              "RelativeDocumentMoniker": "GestionAuditoriaES.cs",
+              "ToolTip": "C:\\Users\\migue\\Downloads\\MarketPal\\GestionAuditoriaES.cs",
+              "RelativeToolTip": "GestionAuditoriaES.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAwDIAAAB+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T05:45:11.98Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Data.cs",
-              "DocumentMoniker": "C:\\Users\\migue\\Downloads\\MarketPal\\Data.cs",
-              "RelativeDocumentMoniker": "Data.cs",
-              "ToolTip": "C:\\Users\\migue\\Downloads\\MarketPal\\Data.cs",
-              "RelativeToolTip": "Data.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T05:23:11.538Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "GestionUsuarios.cs",
-              "DocumentMoniker": "C:\\Users\\migue\\Downloads\\MarketPal\\GestionUsuarios.cs",
-              "RelativeDocumentMoniker": "GestionUsuarios.cs",
-              "ToolTip": "C:\\Users\\migue\\Downloads\\MarketPal\\GestionUsuarios.cs",
-              "RelativeToolTip": "GestionUsuarios.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T04:34:01.642Z",
+              "WhenOpened": "2025-06-10T19:50:04.355Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "GestionUsuarios.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\migue\\Downloads\\MarketPal\\GestionUsuarios.cs",
-              "RelativeDocumentMoniker": "GestionUsuarios.cs",
-              "ToolTip": "C:\\Users\\migue\\Downloads\\MarketPal\\GestionUsuarios.cs [Dise\u00F1o]",
-              "RelativeToolTip": "GestionUsuarios.cs [Dise\u00F1o]",
+              "DocumentIndex": 1,
+              "Title": "seccion_reporte_ventas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\migue\\Downloads\\MarketPal\\seccion_reporte_ventas.cs",
+              "RelativeDocumentMoniker": "seccion_reporte_ventas.cs",
+              "ToolTip": "C:\\Users\\migue\\Downloads\\MarketPal\\seccion_reporte_ventas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "seccion_reporte_ventas.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T04:33:58.228Z"
+              "WhenOpened": "2025-06-10T19:58:06.653Z",
+              "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "mensaje_aviso.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\migue\\Downloads\\MarketPal\\mensaje_aviso.cs",
-              "RelativeDocumentMoniker": "mensaje_aviso.cs",
-              "ToolTip": "C:\\Users\\migue\\Downloads\\MarketPal\\mensaje_aviso.cs [Dise\u00F1o]",
-              "RelativeToolTip": "mensaje_aviso.cs [Dise\u00F1o]",
+              "DocumentIndex": 0,
+              "Title": "GestionAuditoriaES.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\migue\\Downloads\\MarketPal\\GestionAuditoriaES.cs",
+              "RelativeDocumentMoniker": "GestionAuditoriaES.cs",
+              "ToolTip": "C:\\Users\\migue\\Downloads\\MarketPal\\GestionAuditoriaES.cs [Dise\u00F1o]",
+              "RelativeToolTip": "GestionAuditoriaES.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T04:33:41.75Z"
+              "WhenOpened": "2025-06-10T19:41:33.285Z",
+              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         }

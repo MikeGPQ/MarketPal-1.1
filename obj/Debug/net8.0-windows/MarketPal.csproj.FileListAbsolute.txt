@@ -1354,3 +1354,4 @@ C:\Users\migue\Downloads\MarketPal\obj\Debug\net8.0-windows\MarketPal.sourcelink
 C:\Users\migue\Downloads\MarketPal\obj\Debug\net8.0-windows\MarketPal.csproj.Up2Date
 C:\Users\migue\Downloads\MarketPal\obj\Debug\net8.0-windows\MarketPal.genruntimeconfig.cache
 C:\Users\migue\Downloads\MarketPal\obj\Debug\net8.0-windows\ref\MarketPal.dll
+C:\Users\migue\Downloads\MarketPal\obj\Debug\net8.0-windows\MarketPal.GestionAuditoriaES.resources

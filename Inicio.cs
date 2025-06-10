@@ -32,6 +32,7 @@ namespace MarketPal
         IFirebaseClient client;
 
         int intentos = 3;
+        private Dictionary<string, Auditoria> dict_adutoriasES;
 
         public Inicio()
         {
@@ -41,6 +42,7 @@ namespace MarketPal
         private void Form2_Load(object sender, EventArgs e)
         {
             client = new FireSharp.FirebaseClient(config);
+            actualizarLibreria();
         }
 
         private async void textBox_iniciarSesion_Click(object sender, EventArgs e)
@@ -78,6 +80,7 @@ namespace MarketPal
                         //REVISAR QUE LA CONTRASENA SEA CORRECTA
                         if (revisarPassword(dict_usuarios))
                         {
+                            SetResponse response = await client.SetAsync("AuditoriasES/" + ("ID:" + (checkMax(dict_adutoriasES) + 1)), GenAuditoriaES());
                             this.Hide();
                             var form = new FormMenu(rolUsuario, sucursalId, nombreUsuario);
                             form.Closed += (s, args) => this.Close();
@@ -91,6 +94,34 @@ namespace MarketPal
                     }
                 }
             }
+        }
+
+        private object GenAuditoriaES()
+        {
+            var auditoriaEs = new
+            {
+                Fecha = DateTime.Now.ToString("dd-MM-yyyy"),
+                Hora = DateTime.Now.ToString("hh:mm:ss tt"),
+                Usuario = nombreUsuario,
+                Tipo = "Entrada"
+            };
+            return auditoriaEs;
+        }
+
+        private async void actualizarLibreria()
+        {
+            FirebaseResponse auditorias = await client.GetAsync("AuditoriasES/");
+            dict_adutoriasES = auditorias.ResultAs<Dictionary<string, Auditoria>>();
+        } 
+
+        private int checkMax(Dictionary<string, Auditoria> dict_adutoriasES)
+        {
+            if(dict_adutoriasES != null)
+            {
+                
+                return dict_adutoriasES.Keys.ToList().Select(id => int.Parse(id.Split("ID:")[1])).ToList().Max();
+            }
+            return 0;
         }
 
         private bool correoExiste(Dictionary<string, Data> dict_usuarios)
@@ -136,17 +167,15 @@ namespace MarketPal
         {
             using (var sha256 = SHA256.Create())
             {
-                // Convert the input string to a byte array
+                
                 byte[] bytes = Encoding.UTF8.GetBytes(password);
-
-                // Compute the hash
+               
                 byte[] hashBytes = sha256.ComputeHash(bytes);
 
-                // Convert the byte array to a hexadecimal string
                 StringBuilder builder = new StringBuilder();
                 for (int i = 0; i < hashBytes.Length; i++)
                 {
-                    builder.Append(hashBytes[i].ToString("x2")); // "x2" means hexadecimal
+                    builder.Append(hashBytes[i].ToString("x2")); 
                 }
                 
                 return builder.ToString();
