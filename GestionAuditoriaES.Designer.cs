@@ -37,6 +37,15 @@
             ColumnCambioVenta = new DataGridViewTextBoxColumn();
             HoraColumn = new DataGridViewTextBoxColumn();
             label_reportes_de_ventas = new Label();
+            label1 = new Label();
+            comboBoxFecha = new ComboBox();
+            label2 = new Label();
+            comboBoxUsuarios = new ComboBox();
+            label3 = new Label();
+            comboBoxType = new ComboBox();
+            buttonClearDate = new Button();
+            buttonClearUser = new Button();
+            buttonClearType = new Button();
             ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
             SuspendLayout();
             // 
@@ -88,7 +97,7 @@
             // 
             // ColumnID
             // 
-            ColumnID.HeaderText = "ID";
+            ColumnID.HeaderText = "Type";
             ColumnID.MinimumWidth = 6;
             ColumnID.Name = "ColumnID";
             ColumnID.ReadOnly = true;
@@ -127,12 +136,144 @@
             label_reportes_de_ventas.Text = "Entradas y Salidas";
             label_reportes_de_ventas.TextAlign = ContentAlignment.MiddleCenter;
             // 
+            // label1
+            // 
+            label1.AutoSize = true;
+            label1.Font = new Font("Lucida Sans", 9F);
+            label1.Location = new Point(741, 94);
+            label1.Name = "label1";
+            label1.Size = new Size(132, 17);
+            label1.TabIndex = 11;
+            label1.Text = "Filtrar por fecha: ";
+            // 
+            // comboBoxFecha
+            // 
+            comboBoxFecha.BackColor = Color.FromArgb(250, 146, 31);
+            comboBoxFecha.DropDownStyle = ComboBoxStyle.DropDownList;
+            comboBoxFecha.Font = new Font("Lucida Sans", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            comboBoxFecha.FormattingEnabled = true;
+            comboBoxFecha.Items.AddRange(new object[] { "" });
+            comboBoxFecha.Location = new Point(879, 90);
+            comboBoxFecha.Margin = new Padding(3, 4, 3, 4);
+            comboBoxFecha.Name = "comboBoxFecha";
+            comboBoxFecha.Size = new Size(138, 25);
+            comboBoxFecha.TabIndex = 10;
+            comboBoxFecha.SelectedIndexChanged += comboBoxFecha_SelectedIndexChanged;
+            // 
+            // label2
+            // 
+            label2.AutoSize = true;
+            label2.Font = new Font("Lucida Sans", 9F);
+            label2.Location = new Point(339, 93);
+            label2.Name = "label2";
+            label2.Size = new Size(146, 17);
+            label2.TabIndex = 13;
+            label2.Text = "Filtrar por usuario: ";
+            // 
+            // comboBoxUsuarios
+            // 
+            comboBoxUsuarios.BackColor = Color.FromArgb(250, 146, 31);
+            comboBoxUsuarios.DropDownStyle = ComboBoxStyle.DropDownList;
+            comboBoxUsuarios.Font = new Font("Lucida Sans", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            comboBoxUsuarios.FormattingEnabled = true;
+            comboBoxUsuarios.Items.AddRange(new object[] { "" });
+            comboBoxUsuarios.Location = new Point(488, 90);
+            comboBoxUsuarios.Margin = new Padding(3, 4, 3, 4);
+            comboBoxUsuarios.Name = "comboBoxUsuarios";
+            comboBoxUsuarios.Size = new Size(180, 25);
+            comboBoxUsuarios.TabIndex = 12;
+            comboBoxUsuarios.SelectedIndexChanged += comboBoxUsuarios_SelectedIndexChanged;
+            // 
+            // label3
+            // 
+            label3.AutoSize = true;
+            label3.Font = new Font("Lucida Sans", 9F);
+            label3.Location = new Point(32, 92);
+            label3.Name = "label3";
+            label3.Size = new Size(122, 17);
+            label3.TabIndex = 15;
+            label3.Text = "Filtrar por tipo: ";
+            // 
+            // comboBoxType
+            // 
+            comboBoxType.BackColor = Color.FromArgb(250, 146, 31);
+            comboBoxType.DropDownStyle = ComboBoxStyle.DropDownList;
+            comboBoxType.Font = new Font("Lucida Sans", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            comboBoxType.FormattingEnabled = true;
+            comboBoxType.Items.AddRange(new object[] { "Entrada", "Salida" });
+            comboBoxType.Location = new Point(157, 89);
+            comboBoxType.Margin = new Padding(3, 4, 3, 4);
+            comboBoxType.Name = "comboBoxType";
+            comboBoxType.Size = new Size(138, 25);
+            comboBoxType.TabIndex = 14;
+            comboBoxType.SelectedIndexChanged += comboBoxType_SelectedIndexChanged;
+            // 
+            // buttonClearDate
+            // 
+            buttonClearDate.BackColor = Color.Transparent;
+            buttonClearDate.FlatAppearance.BorderSize = 0;
+            buttonClearDate.FlatAppearance.MouseDownBackColor = SystemColors.ScrollBar;
+            buttonClearDate.FlatAppearance.MouseOverBackColor = SystemColors.ControlLight;
+            buttonClearDate.FlatStyle = FlatStyle.Flat;
+            buttonClearDate.Image = Properties.Resources.equis__3___4_;
+            buttonClearDate.Location = new Point(1025, 89);
+            buttonClearDate.Margin = new Padding(5);
+            buttonClearDate.Name = "buttonClearDate";
+            buttonClearDate.Size = new Size(18, 25);
+            buttonClearDate.TabIndex = 31;
+            buttonClearDate.UseVisualStyleBackColor = false;
+            buttonClearDate.Visible = false;
+            buttonClearDate.Click += buttonClearDate_Click;
+            // 
+            // buttonClearUser
+            // 
+            buttonClearUser.BackColor = Color.Transparent;
+            buttonClearUser.FlatAppearance.BorderSize = 0;
+            buttonClearUser.FlatAppearance.MouseDownBackColor = SystemColors.ScrollBar;
+            buttonClearUser.FlatAppearance.MouseOverBackColor = SystemColors.ControlLight;
+            buttonClearUser.FlatStyle = FlatStyle.Flat;
+            buttonClearUser.Image = Properties.Resources.equis__3___4_;
+            buttonClearUser.Location = new Point(676, 90);
+            buttonClearUser.Margin = new Padding(5);
+            buttonClearUser.Name = "buttonClearUser";
+            buttonClearUser.Size = new Size(18, 25);
+            buttonClearUser.TabIndex = 32;
+            buttonClearUser.UseVisualStyleBackColor = false;
+            buttonClearUser.Visible = false;
+            buttonClearUser.Click += buttonClearUser_Click;
+            // 
+            // buttonClearType
+            // 
+            buttonClearType.BackColor = Color.Transparent;
+            buttonClearType.FlatAppearance.BorderSize = 0;
+            buttonClearType.FlatAppearance.MouseDownBackColor = SystemColors.ScrollBar;
+            buttonClearType.FlatAppearance.MouseOverBackColor = SystemColors.ControlLight;
+            buttonClearType.FlatStyle = FlatStyle.Flat;
+            buttonClearType.Image = Properties.Resources.equis__3___4_;
+            buttonClearType.Location = new Point(303, 88);
+            buttonClearType.Margin = new Padding(5);
+            buttonClearType.Name = "buttonClearType";
+            buttonClearType.Size = new Size(18, 25);
+            buttonClearType.TabIndex = 33;
+            buttonClearType.UseVisualStyleBackColor = false;
+            buttonClearType.Visible = false;
+            buttonClearType.Click += buttonClearType_Click;
+            // 
             // GestionAuditoriaES
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = SystemColors.Window;
             ClientSize = new Size(1207, 729);
+            Controls.Add(buttonClearType);
+            Controls.Add(buttonClearUser);
+            Controls.Add(buttonClearDate);
+            Controls.Add(label3);
+            Controls.Add(comboBoxType);
+            Controls.Add(label2);
+            Controls.Add(comboBoxUsuarios);
+            Controls.Add(label1);
+            Controls.Add(comboBoxFecha);
             Controls.Add(dataGridView1);
             Controls.Add(label_reportes_de_ventas);
             FormBorderStyle = FormBorderStyle.None;
@@ -141,15 +282,25 @@
             Load += GestionAuditoriaES_Load;
             ((System.ComponentModel.ISupportInitialize)dataGridView1).EndInit();
             ResumeLayout(false);
+            PerformLayout();
         }
 
         #endregion
 
         private DataGridView dataGridView1;
         private Label label_reportes_de_ventas;
+        private Label label1;
+        private ComboBox comboBoxFecha;
         private DataGridViewTextBoxColumn ColumnID;
         private DataGridViewTextBoxColumn ColumnUsuarioVendedor;
         private DataGridViewTextBoxColumn ColumnCambioVenta;
         private DataGridViewTextBoxColumn HoraColumn;
+        private Label label2;
+        private ComboBox comboBoxUsuarios;
+        private Label label3;
+        private ComboBox comboBoxType;
+        private Button buttonClearDate;
+        private Button buttonClearUser;
+        private Button buttonClearType;
     }
 }

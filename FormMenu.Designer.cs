@@ -194,6 +194,7 @@
             Name = "FormMenu";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "MarketPal v2.0";
+            FormClosing += FormMenu_FormClosing;
             Load += FormMenu_Load;
             panel2.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)pictureBox_CerrarSesion).EndInit();

@@ -156,5 +156,13 @@ namespace WindowsFormsApp1
         {
             MostrarFormularioEnPanel(new seccion_tarjetas(), btnTarjeta);
         }
+
+        private async void FormMenu_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            e.Cancel = true;
+            SetResponse response = await client.SetAsync("AuditoriasES/" + ("ID:" + (checkMax(dict_adutoriasES) + 1)), GenAuditoriaES());
+            this.FormClosing -= FormMenu_FormClosing;
+            this.Close();
+        }
     }
 }
