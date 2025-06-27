@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\migue\\Downloads\\MarketPal\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9AE08225-D15A-4056-B4B1-AECF75D22BB1}|MarketPal.csproj|C:\\Users\\migue\\Downloads\\MarketPal\\codigoverificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9AE08225-D15A-4056-B4B1-AECF75D22BB1}|MarketPal.csproj|solutionrelative:codigoverificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AE08225-D15A-4056-B4B1-AECF75D22BB1}|MarketPal.csproj|c:\\users\\migue\\downloads\\marketpal\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AE08225-D15A-4056-B4B1-AECF75D22BB1}|MarketPal.csproj|solutionrelative:inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AE08225-D15A-4056-B4B1-AECF75D22BB1}|MarketPal.csproj|C:\\Users\\migue\\Downloads\\MarketPal\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9AE08225-D15A-4056-B4B1-AECF75D22BB1}|MarketPal.csproj|solutionrelative:inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AE08225-D15A-4056-B4B1-AECF75D22BB1}|MarketPal.csproj|c:\\users\\migue\\downloads\\marketpal\\codigoverificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AE08225-D15A-4056-B4B1-AECF75D22BB1}|MarketPal.csproj|solutionrelative:codigoverificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9AE08225-D15A-4056-B4B1-AECF75D22BB1}|MarketPal.csproj|c:\\users\\migue\\downloads\\marketpal\\gestionauditoriaes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9AE08225-D15A-4056-B4B1-AECF75D22BB1}|MarketPal.csproj|solutionrelative:gestionauditoriaes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9AE08225-D15A-4056-B4B1-AECF75D22BB1}|MarketPal.csproj|c:\\users\\migue\\downloads\\marketpal\\seccion_tarjetas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9AE08225-D15A-4056-B4B1-AECF75D22BB1}|MarketPal.csproj|solutionrelative:seccion_tarjetas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9AE08225-D15A-4056-B4B1-AECF75D22BB1}|MarketPal.csproj|c:\\users\\migue\\downloads\\marketpal\\gestionauditoriaes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9AE08225-D15A-4056-B4B1-AECF75D22BB1}|MarketPal.csproj|solutionrelative:gestionauditoriaes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9AE08225-D15A-4056-B4B1-AECF75D22BB1}|MarketPal.csproj|c:\\users\\migue\\downloads\\marketpal\\seccion_tarjetas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9AE08225-D15A-4056-B4B1-AECF75D22BB1}|MarketPal.csproj|solutionrelative:seccion_tarjetas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -43,52 +47,64 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "seccion_tarjetas.cs",
-              "DocumentMoniker": "C:\\Users\\migue\\Downloads\\MarketPal\\seccion_tarjetas.cs",
-              "RelativeDocumentMoniker": "seccion_tarjetas.cs",
-              "ToolTip": "C:\\Users\\migue\\Downloads\\MarketPal\\seccion_tarjetas.cs",
-              "RelativeToolTip": "seccion_tarjetas.cs",
-              "ViewState": "AgIAANsAAAAAAAAAAAAhwOsAAAAJAAAAAAAAAA==",
+              "Title": "codigoVerificacion.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\Downloads\\MarketPal\\codigoVerificacion.cs",
+              "RelativeDocumentMoniker": "codigoVerificacion.cs",
+              "ToolTip": "C:\\Users\\migue\\Downloads\\MarketPal\\codigoVerificacion.cs",
+              "RelativeToolTip": "codigoVerificacion.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T17:54:08.815Z",
+              "WhenOpened": "2025-06-27T21:38:24.149Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "seccion_tarjetas.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\migue\\Downloads\\MarketPal\\seccion_tarjetas.cs",
-              "RelativeDocumentMoniker": "seccion_tarjetas.cs",
-              "ToolTip": "C:\\Users\\migue\\Downloads\\MarketPal\\seccion_tarjetas.cs [Dise\u00F1o]",
-              "RelativeToolTip": "seccion_tarjetas.cs [Dise\u00F1o]",
+              "DocumentIndex": 0,
+              "Title": "codigoVerificacion.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\migue\\Downloads\\MarketPal\\codigoVerificacion.cs",
+              "RelativeDocumentMoniker": "codigoVerificacion.cs",
+              "ToolTip": "C:\\Users\\migue\\Downloads\\MarketPal\\codigoVerificacion.cs [Dise\u00F1o]",
+              "RelativeToolTip": "codigoVerificacion.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T17:51:29.335Z",
+              "WhenOpened": "2025-06-27T21:33:37Z",
               "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "GestionAuditoriaES.cs",
-              "DocumentMoniker": "C:\\Users\\migue\\Downloads\\MarketPal\\GestionAuditoriaES.cs",
-              "RelativeDocumentMoniker": "GestionAuditoriaES.cs",
-              "ToolTip": "C:\\Users\\migue\\Downloads\\MarketPal\\GestionAuditoriaES.cs*",
-              "RelativeToolTip": "GestionAuditoriaES.cs*",
-              "ViewState": "AgIAABcAAAAAAAAAAAD4vyUAAAAZAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Inicio.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\Downloads\\MarketPal\\Inicio.cs",
+              "RelativeDocumentMoniker": "Inicio.cs",
+              "ToolTip": "C:\\Users\\migue\\Downloads\\MarketPal\\Inicio.cs",
+              "RelativeToolTip": "Inicio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGkAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T15:42:49.553Z",
+              "WhenOpened": "2025-06-19T19:25:19.99Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "GestionAuditoriaES.cs [Dise\u00F1o]",
+              "Title": "Inicio.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\migue\\Downloads\\MarketPal\\Inicio.cs",
+              "RelativeDocumentMoniker": "Inicio.cs",
+              "ToolTip": "C:\\Users\\migue\\Downloads\\MarketPal\\Inicio.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Inicio.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T19:25:08.548Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GestionAuditoriaES.cs",
               "DocumentMoniker": "C:\\Users\\migue\\Downloads\\MarketPal\\GestionAuditoriaES.cs",
               "RelativeDocumentMoniker": "GestionAuditoriaES.cs",
-              "ToolTip": "C:\\Users\\migue\\Downloads\\MarketPal\\GestionAuditoriaES.cs [Dise\u00F1o]*",
-              "RelativeToolTip": "GestionAuditoriaES.cs [Dise\u00F1o]*",
+              "ToolTip": "C:\\Users\\migue\\Downloads\\MarketPal\\GestionAuditoriaES.cs",
+              "RelativeToolTip": "GestionAuditoriaES.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAD4vyUAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T19:41:33.285Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-06-13T15:42:49.553Z"
             }
           ]
         }

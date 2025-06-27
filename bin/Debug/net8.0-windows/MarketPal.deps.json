@@ -12,6 +12,7 @@
           "FireSharp": "2.0.4",
           "Newtonsoft.Json": "13.0.3",
           "RestSharp": "112.1.0",
+          "SendGrid": "9.29.3",
           "System.IO.Ports": "9.0.2",
           "System.Text.Json": "8.0.5"
         },
@@ -390,6 +391,26 @@
           }
         }
       },
+      "SendGrid/9.29.3": {
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.3",
+          "starkbank-ecdsa": "1.3.3"
+        },
+        "runtime": {
+          "lib/netstandard2.0/SendGrid.dll": {
+            "assemblyVersion": "9.29.3.0",
+            "fileVersion": "9.29.3.0"
+          }
+        }
+      },
+      "starkbank-ecdsa/1.3.3": {
+        "runtime": {
+          "lib/netstandard2.1/StarkbankEcdsa.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
       "System.ComponentModel.Annotations/5.0.0": {},
       "System.Drawing.Common/8.0.4": {
         "dependencies": {
@@ -711,6 +732,20 @@
       "sha512": "sha512-aQDPDCg6seSBRJvx45K8heC2Q1u8uKZ+u52RnREKh6MdHx+E1WlEOqs7u5MH5E3dP6Hw6BIYSdvoElRi8fBB3Q==",
       "path": "runtime.osx-x64.runtime.native.system.io.ports/9.0.2",
       "hashPath": "runtime.osx-x64.runtime.native.system.io.ports.9.0.2.nupkg.sha512"
+    },
+    "SendGrid/9.29.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-nb/zHePecN9U4/Bmct+O+lpgK994JklbCCNMIgGPOone/DngjQoMCHeTvkl+m0Nglvm0dqMEshmvB4fO8eF3dA==",
+      "path": "sendgrid/9.29.3",
+      "hashPath": "sendgrid.9.29.3.nupkg.sha512"
+    },
+    "starkbank-ecdsa/1.3.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-OblOaKb1enXn+dSp7tsx9yjwV+/BEKM9jFhshIkZTwCk7LuTFTp+wSon6rFzuPiIiTGtvVWQNUw2slHjGktJog==",
+      "path": "starkbank-ecdsa/1.3.3",
+      "hashPath": "starkbank-ecdsa.1.3.3.nupkg.sha512"
     },
     "System.ComponentModel.Annotations/5.0.0": {
       "type": "package",

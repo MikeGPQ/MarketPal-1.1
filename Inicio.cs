@@ -14,6 +14,9 @@ using System.Windows.Forms;
 using FireSharp;
 using WindowsFormsApp1;
 using System.Security.Cryptography;
+using SendGrid;
+using SendGrid.Helpers.Mail;
+using System.Net.Mail;
 
 namespace MarketPal
 {
@@ -22,6 +25,9 @@ namespace MarketPal
         string sucursalId = "Sucursal1";
         string rolUsuario;
         string nombreUsuario;
+        DateTime fechaExpiracionCodigo;
+        string codigoVerificacion;
+
 
         IFirebaseConfig config = new FirebaseConfig
         {
@@ -80,11 +86,24 @@ namespace MarketPal
                         //REVISAR QUE LA CONTRASENA SEA CORRECTA
                         if (revisarPassword(dict_usuarios))
                         {
-                            SetResponse response = await client.SetAsync("AuditoriasES/" + ("ID:" + (checkMax(dict_adutoriasES) + 1)), GenAuditoriaES());
-                            this.Hide();
-                            var form = new FormMenu(rolUsuario, sucursalId, nombreUsuario);
-                            form.Closed += (s, args) => this.Close();
-                            form.Show();
+                            codigoVerificacion = GenerarCodigoVerificacion();
+                            fechaExpiracionCodigo = DateTime.Now.AddMinutes(5);
+                            MessageBox.Show(codigoVerificacion);
+                            //await EnviarCodigoPorCorreo(textBox_Correo.Text, codigoVerificacion);
+
+                            var tempCodigoForm = new codigoVerificacion();
+                            tempCodigoForm.ShowDialog();
+                            if(tempCodigoForm.CodigoIngresado != null)
+                            {
+                                if (ValidarCodigoVerificacion(tempCodigoForm.CodigoIngresado))
+                                {
+                                    SetResponse response = await client.SetAsync("AuditoriasES/" + ("ID:" + (checkMax(dict_adutoriasES) + 1)), GenAuditoriaES());
+                                    this.Hide();
+                                    var form = new FormMenu(rolUsuario, sucursalId, nombreUsuario);
+                                    form.Closed += (s, args) => this.Close();
+                                    form.Show();
+                                }
+                            }
                         }
                         else
                         {
@@ -95,6 +114,31 @@ namespace MarketPal
                 }
             }
         }
+
+        private string GenerarCodigoVerificacion()
+        {
+            Random random = new Random();
+            return random.Next(100000, 999999).ToString(); 
+        }
+
+        private async Task EnviarCodigoPorCorreo(string email, string codigo)
+        {
+            var apiKey = "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";
+            var client = new SendGridClient(apiKey);
+            var from = new EmailAddress("miguelgarciaparra@hotmail.com", "MarketPal");
+            var to = new EmailAddress(email);
+            var subject = "Tu código de verificación para MarketPal";
+            var plainTextContent = $"Tu código de verificación es: {codigo}";
+            var htmlContent = $"<strong>Tu código de verificación es: {codigo}</strong>";
+            var msg = MailHelper.CreateSingleEmail(from, to, subject, plainTextContent, htmlContent);
+            var response = await client.SendEmailAsync(msg);
+        }
+
+        private bool ValidarCodigoVerificacion(string codigoIngresado)
+        {
+            return codigoIngresado == codigoVerificacion && DateTime.Now <= fechaExpiracionCodigo;
+        }
+
 
         private object GenAuditoriaES()
         {

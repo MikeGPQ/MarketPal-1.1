@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MarketPal")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4e6c84be8c4de723cbb7c9fe89671537de05241f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+44f27ced974bdea112269975a67c217067e94993")]
 [assembly: System.Reflection.AssemblyProductAttribute("MarketPal")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MarketPal")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
